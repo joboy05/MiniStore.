@@ -1,1 +1,1 @@
-# MiniStore.
+# JjStore.
